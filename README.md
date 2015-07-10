@@ -1,2 +1,2 @@
 # test-client
-This is my first git clint
+This is my first git client
